@@ -6,6 +6,16 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 
 https://satyanandh-ai.github.io/Portfolio-Website/
 
+## Preview
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Projects Section
+
+![Projects Section](screenshots/projects.png)
+
 ## Features
 
 * Modern dark-themed UI
